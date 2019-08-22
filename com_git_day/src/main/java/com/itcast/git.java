@@ -1,0 +1,15 @@
+package com.itcast;
+
+public class git {
+    public static void main(String[] args) {
+        System.out.println("daima");
+        System.out.println("daima");
+        System.out.println("daima");
+        System.out.println("daima");
+        System.out.println("daima");
+        System.out.println("daima");
+        System.out.println("daima");
+        System.out.println("daima");
+    }
+
+}
