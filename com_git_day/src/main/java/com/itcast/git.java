@@ -11,5 +11,11 @@ public class git {
         System.out.println("daima");
         System.out.println("daima");
     }
+    public void test(){
+        int i=0;
+        i+=10;
+
+
+    }
 
 }
